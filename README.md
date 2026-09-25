@@ -3,7 +3,7 @@
 A simple and modern UI design practice project built using React, Vite, and Tailwind CSS.
 
 ## 🚀 Live Demo
-- **Live Deployment**: <!-- Add your live deployment link here (e.g. Vercel, Netlify, GitHub Pages) -->
+- **Live Deployment**: [https://ui-design-project-gilt.vercel.app/](https://ui-design-project-gilt.vercel.app/)
 
 ---
 
