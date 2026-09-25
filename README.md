@@ -7,6 +7,18 @@ A simple and modern UI design practice project built using React, Vite, and Tail
 
 ---
 
+## 💡 What I Learnt
+
+While building this UI practice project, I gained hands-on experience with:
+
+- **Component-Driven Architecture**: Breaking down complex UI layouts into clean, reusable modular components (Navbar, Hero sections, cards, dynamic content).
+- **Passing Props & Data Flow**: Efficiently managing and passing data down component trees (rendering dynamic cards from arrays of objects using props).
+- **Tailwind CSS Mastery**: Working with modern Tailwind utility classes, handling responsive layouts, custom rounding, absolute/relative positioning, flexbox alignment, and smooth card arrangements.
+- **Asset & Icon Integration**: Leveraging `lucide-react` for scalable SVG icon sets and handling responsive images.
+- **Fast Build Tooling**: Working with Vite for lightning-fast HMR and seamless local development.
+
+---
+
 ## 🛠️ Tech Stack
 - **Framework**: [React](https://react.dev/)
 - **Build Tool**: [Vite](https://vite.dev/)
